@@ -26,7 +26,7 @@
                 android:id="@+id/tvTitle"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="College"
+                android:text="@string/app_name"
 
                 android:textColor="#FFF"
                 android:textStyle="bold"
